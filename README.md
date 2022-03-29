@@ -12,16 +12,9 @@ The total project structure is listed as follows:
 │  └─Source
 ├─Default
 └─Project
-    ├─.vs
-    │  └─billiard
     ├─About
     ├─Data
-    ├─Debug
-    │  └─billiard.tlog
     ├─Music
-    └─Release
-        └─billiard.tlog
-
 ```
 
-`Custom Code` contains the code of the project, `Default` contains the graphics library used. `Project` is a **VS** project, you can open it with Visual Studio or Consider to use `Custom Code`, `Default`, `About`, `Data`, `Music` to rebuild your own project. 
+`Custom Code` contains the code of the project, `Default` contains the graphics library used. `Project` is a **VS** project, consider to use `Custom Code`, `Default`, `About`, `Data`, `Music` to rebuild your own project. 
