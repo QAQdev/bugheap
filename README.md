@@ -2,7 +2,7 @@
 
 > ZJU Advanced C (C大程) course project, a billiard game based on libgraphcis
  
-Actually I think it's a **PIECE OF SHIT**.
+I think my work a **PIECE OF SHIT**.
 
 The overall project structure is listed as following: 
 
