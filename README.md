@@ -1,8 +1,6 @@
 # BugHeap
 
 > ZJU Advanced C (C大程) course project, a billiard game based on libgraphcis
- 
-I think my work a **PIECE OF SHIT**.
 
 The overall project structure is listed as following: 
 
